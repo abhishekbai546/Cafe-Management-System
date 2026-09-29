@@ -1,0 +1,44 @@
+
+==================================================
+Date: 2026-09-30 00:24:25.155413
+Customer: Abhishek
+Phone: 1234567890
+White Sauce Pasta x 2
+
+==================================================
+Date: 2026-09-30 00:29:41.616404
+Customer: Abhishek
+Phone: 1234567890
+French Fries x 2
+Pani Puri x 1
+
+==================================================
+Date: 2026-09-30 00:35:19.601313
+Customer: Abhishek
+Phone: 1234567890
+Tea x 1
+Subtotal: Rs40
+GST: Rs2.0
+Discount: Rs0
+Final Bill: Rs42.0
+
+==================================================
+Date: 2026-09-30 01:10:14.474934
+Customer: nakul yadav
+Phone: 1234567890
+Pizza x 4
+Cold Coffee x 2
+Subtotal: Rs1240
+GST: Rs62.0
+Discount: Rs124.0
+Final Bill: Rs1178.0
+
+==================================================
+Date: 2026-09-30 03:41:41.395638
+Customer: Abhishek
+Phone: 1234567890
+White Sauce Pasta x 2
+Subtotal: Rs360
+GST: Rs18.0
+Discount: Rs0
+Final Bill: Rs378.0
