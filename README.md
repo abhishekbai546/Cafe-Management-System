@@ -7,6 +7,7 @@ This is a beginner-friendly Python-based Cafe Management and Inventory System. T
 >>Features
 
 - Customer Login and Registration
+  {Username=admin, password=1234}
 - Cafe Menu Display
 - Add Items to Cart
 - Order Placement
